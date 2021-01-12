@@ -2,4 +2,4 @@
 
 https://core.telegram.org/bots/api
 
-https://api.telegram.org/bot<bot>/getUpdates
+https://api.telegram.org/bot\<bot>/getUpdates
