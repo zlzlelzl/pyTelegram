@@ -7,10 +7,10 @@
 import telepot
 
 # 봇 토큰
-token= "1545683010:AAE5yCIkbuGh4z9Am0rPENKlNF1KAc06ucw"
+token= ""
 
 # 보낼사람 ID
-mc = "1186881443"
+mc = ""
 
 bot = telepot.Bot(token)
 bot.sendMessage(mc, "테스트")
